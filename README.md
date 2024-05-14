@@ -1,4 +1,4 @@
-# Small-Projects-JS
+# Small-Projects-JS 
 
 This repository is intended to store small JavaScript projects. As I am a beginner programmer, I would like to track my progress over time by revisiting this repository in the future.
 
