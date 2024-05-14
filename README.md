@@ -11,7 +11,7 @@ If you have any questions, suggestions, or feedback about any of the projects, f
 
 --------------------PORTUGUESE VERSION----------------------------------------------------------------------------------------------------------------
   
-# Small-Projects-JS
+# Pequenos-projetos-JS
 
 Este repositório tem a finalidade de armazenar pequenos projetos em JavaScript. Como sou um programador iniciante, gostaria de acompanhar meu progresso ao longo do tempo revisitando este repositório no futuro.
 
